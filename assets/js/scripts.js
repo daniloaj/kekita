@@ -3,7 +3,7 @@ const products = [
     {
         id: 1,
         name: "Jabón de nácar y arroz",
-        category: "exfoliante",
+        category: "humectante",
         description: "Aclara y unifica el tono de la piel, suaviza, ilumina, exfolia suavemente, hidrata y ayuda con la regeneración, siendo ideal para reducir manchas y cicatrices leves.",
         price: 1.75,
         image: "assets/img/nacarArroz.jpeg",
@@ -79,6 +79,15 @@ const products = [
         description: "Ideal para pieles sensibles y maduras, ya que ayuda a equilibrar el pH, combatir el envejecimiento prematuro y mejorar la elasticidad, dejando una sensación fresca y radiante.",
         price: 3.00,
         image: "assets/img/rosas.jpeg",
+        natural: true
+    },
+    {
+        id: 10,
+        name: "Jabón masajeador de sandia",
+        category: "masaje",
+        description: "Nutre profundamente la piel, manteniéndola elástica y suave, la vitamina C de la sandía combate el envejecimiento prematuro y promueve el colágeno y su masaje estimula la circulación y relaja la tensión muscular mientras te bañas.",
+        price: 3.00,
+        image: "assets/img/sandia.jpeg",
         natural: true
     },
 ];
