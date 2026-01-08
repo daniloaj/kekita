@@ -90,6 +90,15 @@ const products = [
         image: "assets/img/sandia.jpeg",
         natural: true
     },
+    {
+        id: 11,
+        name: "Jabón de nácar avena y miel",
+        category: "hidratante",
+        description: "Limpia, hidrata, calma y regenera la piel, siendo ideal para pieles sensibles, secas, irritadas o con tendencia al acné, ya que la avena exfolia suavemente, la miel nutre y protege con propiedades antibióticas, y el nácar aporta minerales y luminosidad, dejando la piel suave, radiante y saludable.",
+        price: 2.50,
+        image: "assets/img/nacarAvenaMiel.jpg",
+        natural: true
+    },
 ];
 
 // Variables globales
