@@ -99,6 +99,24 @@ const products = [
         image: "assets/img/nacarAvenaMiel.jpg",
         natural: true
     },
+    {
+        id: 12,
+        name: "Jabón masajeador de nácar avena y miel",
+        category: "masaje",
+        description: "Limpia, hidrata, calma y regenera la piel, siendo ideal para pieles sensibles, secas, irritadas o con tendencia al acné, ya que la avena exfolia suavemente, la miel nutre y protege con propiedades antibióticas, y el nácar aporta minerales y luminosidad, dejando la piel suave, radiante y saludable a la vez que relaja los musculos.",
+        price: 3.00,
+        image: "assets/img/nacarAvenaMielMasaje.jpg",
+        natural: true
+    },
+    {
+        id: 12,
+        name: "Jabón de azufre y manzanilla",
+        category: "exfoliante",
+        description: "Ideal para pieles grasas y con tendencia al acné, ya que el azufre controla el exceso de grasa (sebo), combate bacterias y hongos, y reduce inflamaciones, mientras que la manzanilla aporta suavidad, calma la irritación y tiene propiedades hidratantes.",
+        price: 2.00,
+        image: "assets/img/azufreManzanilla.jpg",
+        natural: true
+    },
 ];
 
 // Variables globales
