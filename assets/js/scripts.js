@@ -109,12 +109,57 @@ const products = [
         natural: true
     },
     {
-        id: 12,
+        id: 13,
+        name: "Jabón con nácar y cúrcuma",
+        category: "humectante",
+        description: "Sus propiedades antioxidantes y antiinflamatorias ayudan a iluminar el tono, reducir manchas oscuras, combatir el acné y el envejecimiento, calmar irritaciones y mejorar la luminosidad.",
+        price: 2.00,
+        image: "assets/img/florNacarCurcuma.jpg",
+        natural: true
+    },
+    {
+        id: 14,
         name: "Jabón de azufre y manzanilla",
         category: "exfoliante",
         description: "Ideal para pieles grasas y con tendencia al acné, ya que el azufre controla el exceso de grasa (sebo), combate bacterias y hongos, y reduce inflamaciones, mientras que la manzanilla aporta suavidad, calma la irritación y tiene propiedades hidratantes.",
         price: 2.00,
         image: "assets/img/azufreManzanilla.jpg",
+        natural: true
+    },
+    {
+        id: 15,
+        name: "Jabón de nácar avena y miel",
+        category: "hidratante",
+        description: "Limpia, hidrata, calma y regenera la piel, siendo ideal para pieles sensibles, secas, irritadas o con tendencia al acné, ya que la avena exfolia suavemente, la miel nutre y protege con propiedades antibióticas, y el nácar aporta minerales y luminosidad, dejando la piel suave, radiante y saludable.",
+        price: 2.00,
+        image: "assets/img/floreNacarMielAvena.jpg",
+        natural: true
+    },
+    {
+        id: 16,
+        name: "Jabón de sandia",
+        category: "aromaterapia",
+        description: "Nutre profundamente la piel, manteniéndola elástica y suave, la vitamina C de la sandía combate el envejecimiento prematuro y promueve el colágeno.",
+        price: 2.00,
+        image: "assets/img/florSandia.jpg",
+        natural: true
+    },
+    {
+        id: 17,
+        name: "Jabón de aloe y manzanilla",
+        category: "hidratante",
+        description: "Limpian, hidratan y calman pieles sensibles, irritadas o secas. Sus propiedades combinadas regeneran la dermis, reducen la inflamación, actúan como antioxidante, ayudan a combatir el acné y aportan suavidad sin dejar residuos grasos. ",
+        price: 2.00,
+        image: "assets/img/aloeManzanilla.jpg",
+        natural: true
+    },
+    {
+        id: 18,
+         name: "Jabón de aloe y manzanilla grande",
+        category: "hidratante",
+        description: "Limpian, hidratan y calman pieles sensibles, irritadas o secas. Sus propiedades combinadas regeneran la dermis, reducen la inflamación, actúan como antioxidante, ayudan a combatir el acné y aportan suavidad sin dejar residuos grasos. ",
+        price: 2.50,
+        image: "assets/img/aloeManzanilla.jpg",
         natural: true
     },
 ];
