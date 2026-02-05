@@ -132,7 +132,7 @@ const products = [
         category: "hidratante",
         description: "Limpia, hidrata, calma y regenera la piel, siendo ideal para pieles sensibles, secas, irritadas o con tendencia al acné, ya que la avena exfolia suavemente, la miel nutre y protege con propiedades antibióticas, y el nácar aporta minerales y luminosidad, dejando la piel suave, radiante y saludable.",
         price: 2.00,
-        image: "assets/img/floreNacarMielAvena.jpg",
+        image: "assets/img/florNacarMielAvena.jpg",
         natural: true
     },
     {
@@ -159,7 +159,7 @@ const products = [
         category: "hidratante",
         description: "Limpian, hidratan y calman pieles sensibles, irritadas o secas. Sus propiedades combinadas regeneran la dermis, reducen la inflamación, actúan como antioxidante, ayudan a combatir el acné y aportan suavidad sin dejar residuos grasos. ",
         price: 2.50,
-        image: "assets/img/aloeManzanilla.jpg",
+        image: "assets/img/aloeManzanillaGrandes.jpg",
         natural: true
     },
 ];
