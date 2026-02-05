@@ -113,7 +113,7 @@ const products = [
         name: "Jabón con nácar y cúrcuma",
         category: "humectante",
         description: "Sus propiedades antioxidantes y antiinflamatorias ayudan a iluminar el tono, reducir manchas oscuras, combatir el acné y el envejecimiento, calmar irritaciones y mejorar la luminosidad.",
-        price: 2.00,
+        price: 1.75,
         image: "assets/img/florNacarCurcuma.jpg",
         natural: true
     },
@@ -131,7 +131,7 @@ const products = [
         name: "Jabón de nácar avena y miel",
         category: "hidratante",
         description: "Limpia, hidrata, calma y regenera la piel, siendo ideal para pieles sensibles, secas, irritadas o con tendencia al acné, ya que la avena exfolia suavemente, la miel nutre y protege con propiedades antibióticas, y el nácar aporta minerales y luminosidad, dejando la piel suave, radiante y saludable.",
-        price: 2.00,
+        price: 1.75,
         image: "assets/img/florNacarMielAvena.jpg",
         natural: true
     },
@@ -140,7 +140,7 @@ const products = [
         name: "Jabón de sandia",
         category: "aromaterapia",
         description: "Nutre profundamente la piel, manteniéndola elástica y suave, la vitamina C de la sandía combate el envejecimiento prematuro y promueve el colágeno.",
-        price: 2.00,
+        price: 1.75,
         image: "assets/img/florSandia.jpg",
         natural: true
     },
