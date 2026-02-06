@@ -162,6 +162,15 @@ const products = [
         image: "assets/img/aloeManzanillaGrandes.jpg",
         natural: true
     },
+    {
+        id: 19,
+         name: "Jabón de romero y arroz",
+        category: "masaje",
+        description: "ideal para pieles mixtas a grasas, que sirve para limpiar profundamente, controlar el exceso de grasa, exfoliar suavemente y aclarar manchas.",
+        price: 3.00,
+        image: "assets/img/romeroArrozMasaje.jpg",
+        natural: true
+    },
 ];
 
 // Variables globales
