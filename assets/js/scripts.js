@@ -2,7 +2,7 @@
 const products = [
     {
         id: 1,
-        name: "Jabón de nácar y arroz",
+        name: "Jabón redondo de nácar y arroz",
         category: "humectante",
         description: "Aclara y unifica el tono de la piel, suaviza, ilumina, exfolia suavemente, hidrata y ayuda con la regeneración, siendo ideal para reducir manchas y cicatrices leves.",
         price: 1.75,
@@ -11,7 +11,7 @@ const products = [
     },
     {
         id: 2,
-        name: "Jabón de nácar y cúrcuma",
+        name: "Jabón redondo de nácar y cúrcuma",
         category: "humectante",
         description: "Sus propiedades antioxidantes y antiinflamatorias ayudan a iluminar el tono, reducir manchas oscuras, combatir el acné y el envejecimiento, calmar irritaciones y mejorar la luminosidad.",
         price: 1.75,
@@ -20,7 +20,7 @@ const products = [
     },
     {
         id: 3,
-        name: "Jabón de nácar con avena y miel",
+        name: "Jabón redondo de nácar con avena y miel",
         category: "hidratante",
         description: "Limpia, hidrata, calma y exfolia suavemente la piel, siendo ideal para pieles sensibles o con problemas como acné o irritación, su avena suaviza y su miel aporta propiedades antibióticas y antioxidantes, dejando la piel más luminosa, suave y saludable.",
         price: 1.75,
@@ -47,7 +47,7 @@ const products = [
     },
     {
         id: 6,
-        name: "Jabón romero y limón",
+        name: "Jabón redondo de romero y limón",
         category: "aromaterapia",
         description: "Ayuda a controlar el sebo, purificar poros y dejar una sensación fresca y limpia, ideal para pieles grasas y con tendencia al acné.",
         price: 1.75,
@@ -56,7 +56,7 @@ const products = [
     },
     {
         id: 7,
-        name: "Jabón de nácar y arroz",
+        name: "Jabón donita de nácar y arroz",
         category: "humectante",
         description: "Aclara y unifica el tono de la piel, suaviza, ilumina, exfolia suavemente, hidrata y ayuda con la regeneración, siendo ideal para reducir manchas y cicatrices leves.",
         price: 1.75,
@@ -65,7 +65,7 @@ const products = [
     },
     {
         id: 8,
-        name: "Jabón de nácar y cúrcuma",
+        name: "Jabón pastelito de nácar y cúrcuma",
         category: "humectante",
         description: "Sus propiedades antioxidantes y antiinflamatorias ayudan a iluminar el tono, reducir manchas oscuras, combatir el acné y el envejecimiento, calmar irritaciones y mejorar la luminosidad.",
         price: 1.75,
@@ -74,7 +74,7 @@ const products = [
     },
     {
         id: 9,
-        name: "Jabón de rosas",
+        name: "Jabón masajeador de rosas",
         category: "masaje",
         description: "Ideal para pieles sensibles y maduras, ya que ayuda a equilibrar el pH, combatir el envejecimiento prematuro y mejorar la elasticidad, dejando una sensación fresca y radiante.",
         price: 3.00,
@@ -110,7 +110,7 @@ const products = [
     },
     {
         id: 13,
-        name: "Jabón con nácar y cúrcuma",
+        name: "Jabón flor con nácar y cúrcuma",
         category: "humectante",
         description: "Sus propiedades antioxidantes y antiinflamatorias ayudan a iluminar el tono, reducir manchas oscuras, combatir el acné y el envejecimiento, calmar irritaciones y mejorar la luminosidad.",
         price: 1.75,
@@ -119,7 +119,7 @@ const products = [
     },
     {
         id: 14,
-        name: "Jabón de azufre y manzanilla",
+        name: "Jabón redondo de azufre y manzanilla",
         category: "exfoliante",
         description: "Ideal para pieles grasas y con tendencia al acné, ya que el azufre controla el exceso de grasa (sebo), combate bacterias y hongos, y reduce inflamaciones, mientras que la manzanilla aporta suavidad, calma la irritación y tiene propiedades hidratantes.",
         price: 2.00,
@@ -128,7 +128,7 @@ const products = [
     },
     {
         id: 15,
-        name: "Jabón de nácar avena y miel",
+        name: "Jabón flor de nácar avena y miel",
         category: "hidratante",
         description: "Limpia, hidrata, calma y regenera la piel, siendo ideal para pieles sensibles, secas, irritadas o con tendencia al acné, ya que la avena exfolia suavemente, la miel nutre y protege con propiedades antibióticas, y el nácar aporta minerales y luminosidad, dejando la piel suave, radiante y saludable.",
         price: 1.75,
@@ -137,7 +137,7 @@ const products = [
     },
     {
         id: 16,
-        name: "Jabón de sandia",
+        name: "Jabón flor de sandia",
         category: "aromaterapia",
         description: "Nutre profundamente la piel, manteniéndola elástica y suave, la vitamina C de la sandía combate el envejecimiento prematuro y promueve el colágeno.",
         price: 1.75,
@@ -146,7 +146,7 @@ const products = [
     },
     {
         id: 17,
-        name: "Jabón de aloe y manzanilla",
+        name: "Jabón redondo de aloe y manzanilla",
         category: "hidratante",
         description: "Limpian, hidratan y calman pieles sensibles, irritadas o secas. Sus propiedades combinadas regeneran la dermis, reducen la inflamación, actúan como antioxidante, ayudan a combatir el acné y aportan suavidad sin dejar residuos grasos. ",
         price: 2.00,
@@ -164,7 +164,7 @@ const products = [
     },
     {
         id: 19,
-         name: "Jabón de romero y arroz",
+         name: "Jabón masajeador de romero y arroz",
         category: "masaje",
         description: "ideal para pieles mixtas a grasas, que sirve para limpiar profundamente, controlar el exceso de grasa, exfoliar suavemente y aclarar manchas.",
         price: 3.00,
