@@ -171,6 +171,15 @@ const products = [
         image: "assets/img/romeroArrozMasaje.jpg",
         natural: true
     },
+    {
+        id: 20,
+         name: "Jabón masajeador de arroz con coco",
+        category: "masaje",
+        description: "Idealmente para limpiar, exfoliar suavemente, hidratar y ayudar a unificar el tono de la piel.",
+        price: 3.50,
+        image: "assets/img/arrozCoco.jpeg",
+        natural: true
+    },
 ];
 
 // Variables globales
